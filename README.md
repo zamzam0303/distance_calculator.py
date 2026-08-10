@@ -1,7 +1,7 @@
 # Distance Calculator
 
 ## Description
-This calculates the distance between two points.
+This calculates the distance between two points using math library and I/O libraries.
 
 ## How to Run
 1. Open the program.
@@ -15,8 +15,7 @@ This calculates the distance between two points.
 - y2
 
 ## Sample Output
-
-
+The distance between the two points is: _
 
 
 
