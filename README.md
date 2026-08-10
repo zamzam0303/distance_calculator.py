@@ -17,5 +17,8 @@ This calculates the distance between two points using math library and I/O libra
 ## Sample Output
 The distance between the two points is: _
 
+## Author
+Zameer Carlo P. Blah [8-Acacia]
+
 
 
