@@ -20,6 +20,7 @@ Example:
 - y1: 3
 - x2: 7
 - y2: 8
+
 The distance between the two points is: 1.41
 
 ## Author
