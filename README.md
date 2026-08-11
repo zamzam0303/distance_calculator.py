@@ -16,10 +16,10 @@ This calculates the distance between two points using math library and I/O libra
 
 ## Sample Output
 Example:
-x1: 2
-y1: 3
-x2: 7
-y2: 8
+- x1: 2
+- y1: 3
+- x2: 7
+- y2: 8
 The distance between the two points is: 1.41
 
 ## Author
