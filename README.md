@@ -15,7 +15,12 @@ This calculates the distance between two points using math library and I/O libra
 - y2
 
 ## Sample Output
-The distance between the two points is: _
+Example:
+x1: 2
+y1: 3
+x2: 7
+y2: 8
+The distance between the two points is: 1.41
 
 ## Author
 Zameer Carlo P. Blah [8-Acacia]
