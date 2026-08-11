@@ -21,7 +21,7 @@ Example:
 - x2: 7
 - y2: 8
 
-The distance between the two points is: 1.41
+The distance between the two points is: 7.07
 
 ## Author
 Zameer Carlo P. Blah [8-Acacia]
