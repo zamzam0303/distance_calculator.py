@@ -24,7 +24,8 @@ Example:
 The distance between the two points is: 7.07
 
 ## Author
-Zameer Carlo P. Blah [8-Acacia]
+Name: Zameer Carlo P. Blah
+Section: 8-Acacia
 
 
 
